@@ -52,7 +52,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-promise": "^6.0.0",
-    "husky": "^3.0.1",
+    "husky": "^4.0.0",
     "jsdoc": "^3.6.7",
     "json-loader": "^0.5.7",
     "jws": "^3.2.2",
